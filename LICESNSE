@@ -1,0 +1,9 @@
+import os
+from pathlib import __path__
+import logging
+
+logging.basicConfig(Level=logging.INFO,format='[%(asctime)s]: %(message)s:')
+
+project_name= "mlProject"
+
+l
